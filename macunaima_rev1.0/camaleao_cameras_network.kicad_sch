@@ -1,0 +1,146 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d008b67d-bbf6-4045-8fe3-4efdd322d07b)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+    (path "/24925964-492a-42ba-a9e5-f57af8b89496"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/38c73bac-cd6c-4dea-a004-ba7fb9ce3871"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5d2adf8c-6ff3-42e3-bdae-0053e86abf89"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b5e74be3-9b70-4688-be81-361dc2880562"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/be8912db-0e3c-4f72-b56a-143ee4e60877"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c656a7d8-43f2-4961-be1f-f60f5444274d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e7f6cda4-972b-4bfc-8b13-ff34737a2770"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f8190c7a-91b5-4e45-8075-42668d847681"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/01e8c05e-56a7-4156-930d-1b5ddd2cac15"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/0896e712-3237-43f6-a049-b557334708bc"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/09cbd8a4-ae44-4c2b-9cf9-15d97cf7be1e"
+      (reference "C?") (unit 1) (value "2.2uF/6.3V") (footprint "")
+    )
+    (path "/0ed3dafd-0ec7-4ba6-bee4-c4b76ead9892"
+      (reference "C?") (unit 1) (value "27pF/50V") (footprint "")
+    )
+    (path "/19bd555f-0690-4e09-a7d1-9ff5e1d13497"
+      (reference "C?") (unit 1) (value "27pF/50V") (footprint "")
+    )
+    (path "/1fd72747-c880-4b51-9e36-f5f7d5760bdb"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/202136cc-cdc8-4fa6-af55-2f40c49b8782"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/23f1cb44-e48b-465b-8a10-9eb833c7478f"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/30b5c893-53ec-4ec6-914d-fe8f035ded08"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/3f24e133-5660-4654-b18b-2d097c43534b"
+      (reference "C?") (unit 1) (value "100nF/6.3V") (footprint "")
+    )
+    (path "/41e1b64d-86dc-4c98-9af0-11ab516f7a2b"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/501ee478-6e94-4cc9-a7ee-5f2989415641"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/5027e4ec-e5a9-4bea-ab4c-22daa137ed83"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/6d7d1796-34cc-4e2b-89ed-1b94a30b36dc"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/7717d9c6-f446-497e-972d-ed403107e6fc"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/88b36767-d2aa-49ed-a396-02435ab9b625"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/9699d3c0-c394-480f-97f4-713302ef8a0f"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/989dd62d-3a14-4bcb-9fbb-190abf018b1e"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/ac4758cb-18a4-4153-8600-3a9f208a7a31"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/c1b87a20-fca4-4630-a894-ed80e0289224"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/d07acf0e-2675-465d-9a96-a824419f3d63"
+      (reference "C?") (unit 1) (value "0.1uF/6.3V") (footprint "")
+    )
+    (path "/d3808bfd-3f5a-402c-ac98-7c2f5f77bf4c"
+      (reference "C?") (unit 1) (value "100nF/6.3V") (footprint "")
+    )
+    (path "/424d5ce5-0cfe-4b64-996d-b136cb5f7031"
+      (reference "FB?") (unit 1) (value "FerriteBead_Small") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/755467b5-9d55-4312-9f70-660a31afc232"
+      (reference "FB?") (unit 1) (value "FerriteBead_Small") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/024ef5ab-8e6e-4bd1-a1ea-4568fae995aa"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/285bba62-a5de-4160-87dd-dd95c586cb19"
+      (reference "R?") (unit 1) (value "2.49k/1%") (footprint "")
+    )
+    (path "/3e0cf18a-71ff-44c4-9053-607b14451ad7"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/4c94dda6-4c32-4595-8ecf-7590f117abc9"
+      (reference "R?") (unit 1) (value "22") (footprint "")
+    )
+    (path "/7e2dcf51-d82a-4363-ab0b-36f43156bed7"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/9b818f87-7b4e-4d05-8924-98cb997af483"
+      (reference "R?") (unit 1) (value "22") (footprint "")
+    )
+    (path "/d04a2ecb-3d6a-48cb-85e0-3de9a151ae59"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/fd909b2e-64fb-4b0f-8b93-e8bf9773e18a"
+      (reference "R?") (unit 1) (value "0") (footprint "")
+    )
+    (path "/a866ee8a-1d08-4c3c-87f9-a4ceaa41c196"
+      (reference "U?") (unit 1) (value "93LC46BT-I_SN") (footprint "SOIC127P600X175-8N")
+    )
+    (path "/ab135807-a66b-4239-b390-32ebb08dcb21"
+      (reference "U?") (unit 1) (value "RTL8153VCCG") (footprint "")
+    )
+    (path "/7b40a259-1649-4cb4-9d1d-fd2cd4e34593"
+      (reference "Y?") (unit 1) (value "25Mhz") (footprint "")
+    )
+  )
+)
